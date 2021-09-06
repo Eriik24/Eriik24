@@ -5,7 +5,7 @@ Soy Erik Trujillo, estudiante de Ingeniería Informática en la Universidad Poli
 Subo proyectos que realizo durante la universidad y proyectos privados por si pueden ser de utilidad! 
 Puedes darle una estrellita si te gustan! :relaxed:
 
-Y cualquier pregunta no dudes en contactarme: :envelope_with_arrow: erik.trujillo.guzman@gmail.com
+Y cualquier pregunta no dudes en contactarme: :envelope_with_arrow: eriktrujilloguzman@gmail.com
 
 Algunos lenguajes que conozco:
 - Java :heart:
