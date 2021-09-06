@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hola! 👋
 
-<!--
-**Eriik24/Eriik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Erik Trujillo, estudiante de Ingeniería Informática en la Universidad Politécnica de Madrid.
 
-Here are some ideas to get you started:
+Subo proyectos que realizo durante la universidad y proyectos privados por si pueden ser de utilidad! 
+Puedes darle una estrellita si te gustan! :relaxed:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Y cualquier pregunta no dudes en contactarme: :envelope_with_arrow: erik.trujillo.guzman@gmail.com
+
+Algunos lenguajes que conozco:
+- Java :heart:
+- C :heart:
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+
+Y también he trabajado con tecnologías como:
+- Eclipse :heart:
+- Visual Studio Code
+- Figma :heart:
+- MySQL 
+
+### Pasa un buen día!
